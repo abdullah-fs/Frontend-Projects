@@ -9,7 +9,6 @@ const Contact = () => {
         <h2 className="text-3xl font-bold text-gray-900 sm:text-4xl">
           CONTACT US
         </h2>
-
         <div className="mx-auto mt-4 h-1 w-[120px] rounded-full bg-gray-900"></div>
       </div>
 
