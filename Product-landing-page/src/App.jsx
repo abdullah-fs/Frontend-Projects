@@ -24,9 +24,7 @@ const App = () => {
         <CTA/>
         <FAQ/>
         <Footer/>
-      </div>
-      
-      
+      </div>  
     </>
   )
 }
